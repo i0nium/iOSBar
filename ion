@@ -1,4 +1,4 @@
-$ curl -i http://git.io -F "url=https://github.com/i0nium" \
-    -F "code=t"
+$ curl -i http://git.io -F "url=https://github.com/iOSBar" \
+    -F "code=ios"
 HTTP/1.1 201 Created
 Location: http://git.io/ion
