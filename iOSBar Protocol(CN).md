@@ -1,6 +1,6 @@
 <markdown>
-#ios吧协议3.0正式版##
-##Version-3.0 Relaeased##
+#iOS吧协议3.0正式版##
+##Version 3.0##
 ####在GNU自由文档许可证1.3下发布###
 `http://www.gnu.org/licenses/fdl-1.3.html`
 ##################################################
