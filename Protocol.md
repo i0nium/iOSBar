@@ -1,9 +1,11 @@
 <markdown>
 #iOS吧协议##
 ##Version 3.0##
-####在GNU自由文档许可协议1.3下发布###
-####Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.3###
-`http://www.gnu.org/licenses/fdl-1.3.html`
+####在CC BY-SA 3.0协议下发布###
+http://creativecommons.org/licenses/by-sa/3.0/cn/
+关注iOS吧或在iOS吧发表回复/主题帖即默认您已阅读本协议，愿意遵守并承担违规时的一切责任。
+本文档在CC BY-SA 3.0协议下发布，http://creativecommons.org/licenses/by-sa/3.0/cn/
+如您愿意，也可以阅读本文的GitHub副本，https://github.com/i0nium/iOSBar/blob/master/Protocol.md
 ##################################################
 
 ##`总则`
